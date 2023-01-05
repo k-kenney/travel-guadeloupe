@@ -1,0 +1,46 @@
+.container-one {
+  padding-left: 200px;
+}
+
+.container-one h1 {
+  margin: 0;
+  font-family: 'Caveat';
+  color: white;
+  font-size: 75px;
+}
+
+.container-one p {
+  margin-bottom: 40px;
+  font-family: 'lora' sans-serif;
+  color: white;
+  font-size: 24px;
+  font-weight: 200;
+}
+
+.container-two, .footer {
+  width: 900px;
+  margin: 0;
+  padding: 15px 150px 30px 150px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.container-two h2 {
+  font-size: 45px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.footer a {
+  font-size: 35px;
+  color: #6a62f8;
+  padding: 0px 8px;
+}
+
+.footer p {
+  color: rgb(106, 105, 105);
+}
+
+.footer .fa-solid {
+    color: #BF0F12;
+}

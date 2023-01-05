@@ -1,0 +1,15 @@
+.btn-primary {
+  background-color: rgb(90, 129, 90);
+  color: white;
+  padding: 12px 30px;
+  border-radius: 15px;
+  text-decoration: none;
+  font-family: 'Lora' sans-serif;
+  border: 1.5px solid white;
+}
+
+.btn-primary:hover {
+  background-color:rgb(125, 176, 125);
+  border: 3px solid white;
+  transition: 0.3s;
+}

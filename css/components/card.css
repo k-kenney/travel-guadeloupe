@@ -1,0 +1,23 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0;
+  padding-top: 30px;
+}
+
+.card img {
+  width: 150px;
+  height: 250px;
+}
+
+.card {
+  border: 3px solid #eee;
+  width: 250px;
+  padding: 15px 10px;
+  line-height: 36px;
+  /* border-left: 3px solid #eee; */
+  }
+
+.card h4 {
+  font-size: 24px;
+}
